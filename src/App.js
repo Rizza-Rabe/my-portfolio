@@ -9,6 +9,7 @@ import android from './assets/android.png'
 import webImage from './assets/http.png'
 import myProfile from './assets/me.jpg'
 import myCv from './assets/files/AshleyNoblezaResume.pdf'
+import arduinoImage from './assets/arduino.png'
 import './App.css';
 
 function App() {
@@ -55,7 +56,7 @@ function App() {
         <h3 style={{fontSize: 30}}>My Projects</h3>
 
         <div style={{padding: 20, flexDirection: 'row', display: 'flex'}}>
-          <img class="circleimage2" src={profilePic} width='150px' height='150px'></img>
+          <img class="circleimage2" src={arduinoImage} width='150px' height='150px'></img>
           <div style={{flexDirection: 'column', display: 'flex'}}>
             <h2 style={{fontSize: 30, marginLeft: 30}}>Local Web Controller</h2>
             <h2 style={{fontSize: 20, marginLeft: 30, fontWeight: 'normal'}}>I have created a Web Controller for Arduino harware. Users can control arduino harware via the locally hosted web that can be accessed in any devices.</h2>
