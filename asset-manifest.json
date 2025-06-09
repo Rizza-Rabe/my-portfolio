@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.35fe1ce0.css",
-    "main.js": "/my-portfolio/static/js/main.51748282.js",
+    "main.js": "/my-portfolio/static/js/main.dd8f1ff4.js",
     "static/js/453.acca0757.chunk.js": "/my-portfolio/static/js/453.acca0757.chunk.js",
-    "static/media/image1.jpg": "/my-portfolio/static/media/image1.de4ce06ba153c6572adc.jpg",
+    "static/media/retri.png": "/my-portfolio/static/media/retri.dd7b61302432ce3e6df2.png",
     "static/media/AshleyNoblezaResume.pdf": "/my-portfolio/static/media/AshleyNoblezaResume.f06c1209d640f41ec464.pdf",
     "static/media/clock.png": "/my-portfolio/static/media/clock.03aeca7294a7aad5fc31.png",
     "static/media/map.png": "/my-portfolio/static/media/map.098218216c554369dc52.png",
@@ -14,11 +14,11 @@
     "static/media/arduino.png": "/my-portfolio/static/media/arduino.bd6a05db051eb2de0351.png",
     "index.html": "/my-portfolio/index.html",
     "main.35fe1ce0.css.map": "/my-portfolio/static/css/main.35fe1ce0.css.map",
-    "main.51748282.js.map": "/my-portfolio/static/js/main.51748282.js.map",
+    "main.dd8f1ff4.js.map": "/my-portfolio/static/js/main.dd8f1ff4.js.map",
     "453.acca0757.chunk.js.map": "/my-portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35fe1ce0.css",
-    "static/js/main.51748282.js"
+    "static/js/main.dd8f1ff4.js"
   ]
 }
