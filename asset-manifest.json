@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.35fe1ce0.css",
+    "main.js": "/my-portfolio/static/js/main.3b6afc7d.js",
+    "static/js/453.acca0757.chunk.js": "/my-portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/image1.jpg": "/my-portfolio/static/media/image1.de4ce06ba153c6572adc.jpg",
+    "static/media/AshleyNoblezaResume.pdf": "/my-portfolio/static/media/AshleyNoblezaResume.f06c1209d640f41ec464.pdf",
+    "static/media/clock.png": "/my-portfolio/static/media/clock.03aeca7294a7aad5fc31.png",
+    "static/media/map.png": "/my-portfolio/static/media/map.098218216c554369dc52.png",
+    "static/media/contact.png": "/my-portfolio/static/media/contact.922987a220b3bcf2084e.png",
+    "static/media/http.png": "/my-portfolio/static/media/http.97f9aafc6bf4ff934838.png",
+    "static/media/android.png": "/my-portfolio/static/media/android.980f2db01583602d386d.png",
+    "static/media/savingspro.png": "/my-portfolio/static/media/savingspro.47ed7331b1150924c9c5.png",
+    "static/media/arduino.png": "/my-portfolio/static/media/arduino.bd6a05db051eb2de0351.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.35fe1ce0.css.map": "/my-portfolio/static/css/main.35fe1ce0.css.map",
+    "main.3b6afc7d.js.map": "/my-portfolio/static/js/main.3b6afc7d.js.map",
+    "453.acca0757.chunk.js.map": "/my-portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35fe1ce0.css",
+    "static/js/main.3b6afc7d.js"
+  ]
+}
